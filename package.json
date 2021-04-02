@@ -1,0 +1,19 @@
+{
+  "name": "slide4",
+  "version": "1.0.0",
+  "description": "Gi cung duoc",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "tuan13042001"
+  ],
+  "author": "Tuan Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.0"
+  }
+}
